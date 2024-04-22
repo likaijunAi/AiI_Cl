@@ -1,2 +1,2 @@
 # AiI_Cl
-Artificial Intelligence Interface For Command-Line
+AI Interface For Command-Line
